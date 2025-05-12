@@ -1,6 +1,0 @@
-- # About me
-- 👀 I’m interested in software and artificial intelligence
-- 🌱 I’m currently learning machine learning and systems programming
-- 🤝  I’m looking to collaborate on beginner-friendly open source projects, especially in ML and automation.
-- 📫 How to reach me: [mohamad.alaalami@outlook.com](mailto:mohamad.alaalami@outlook.com) or message me here on GitHub.
-- 🎯 Hobbies: ping pong, football, and lifting weights.
